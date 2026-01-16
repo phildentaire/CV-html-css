@@ -1,4 +1,5 @@
 /*css du cv*/
+
 @font-face {
     font-family: 'Raleway';
     src: url('../fonts/Raleway-Regular.ttf');
@@ -100,7 +101,7 @@ body {
   margin-right: 15px;
 }
 
-/*enleèvement du soulignage des liens et couleur*/
+/*enlèvement du soulignage des liens et couleur*/
 .mail {
   text-decoration: none;
   color: #fff;
